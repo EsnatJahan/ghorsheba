@@ -1,1 +1,1 @@
--- CREATE DATABASE `ghorsheba`;
+CREATE DATABASE IF NOT EXISTS `ghorsheba`;
